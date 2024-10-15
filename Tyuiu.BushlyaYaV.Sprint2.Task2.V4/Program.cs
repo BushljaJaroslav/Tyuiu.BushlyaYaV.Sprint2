@@ -8,7 +8,7 @@ namespace Tyuiu.BushlyaYaV.Sprint2.Task2.V4
     {
         static void Main(string[] args)
         {
-            Console.Title = "Спринт #1 | Выполнил: Бушля Я. В. | ИСТНб-24-1";
+            Console.Title = "Спринт #2 | Выполнил: Бушля Я. В. | ИСТНб-24-1";
 
             DataService ds = new DataService();
 
